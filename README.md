@@ -8,12 +8,19 @@ The HR Insights Pro Dashboard is a comprehensive Power BI solution built to anal
 With interactive filters and dynamic KPIs, the dashboard enables HR leaders to monitor attrition rates, compare departments, identify high-risk roles, and make data-driven decisions to improve employee retention, optimize compensation strategies, and strengthen overall workforce planning.
 
 ## 3. Tech Stack
+
 The dashboard was built using the following technologies:
+
 📊 Power BI Desktop – Core platform for building interactive visuals and report design
+
 🔄 Power Query – Data cleaning, transformation, and preparation
+
 🧠 DAX (Data Analysis Expressions) – Custom KPIs such as Attrition Rate, Average Salary, and calculated insights
+
 🗂 Data Modeling – Structured relationships between employee attributes (age, salary, job role, department, education)
+
 📁 File Formats – .pbix for development, .pdf/.mp4 for presentation and demonstration
+
 
 ## 4. Data Source
 Source: IBM HR Analytics Employee Attrition & Performance Dataset (public sample dataset available on Kaggle).
@@ -30,13 +37,19 @@ The data is structured in a single primary employee table with categorical and n
 
 • Business Problem
 Employee attrition directly impacts productivity, recruitment costs, and organizational stability.
+
 Key questions HR leaders struggle with:
+
 Which age groups have the highest attrition?
+
 Which job roles are most affected?
+
 Is attrition linked to salary level?
+
 
 • Goal of the Dashboard
 To deliver a centralized, interactive HR analytics tool that:
+
 Monitors overall workforce health through KPIs.
 
 ## 6. Business Impact & Insights
