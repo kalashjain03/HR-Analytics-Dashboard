@@ -56,3 +56,6 @@ Age and education insights help tailor career development and engagement program
 ✅ Executive Decision Support
 Leadership can quickly monitor workforce stability through clear KPIs and visual trends.
 wdfs
+
+## Screenshot 
+Dashboard Preview (https://github.com/kalashjain03/HR-Analytics-Dashboard/blob/main/HR%20Analytis%20Dashboard.png)
