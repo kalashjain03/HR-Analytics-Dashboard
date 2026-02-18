@@ -58,4 +58,4 @@ Leadership can quickly monitor workforce stability through clear KPIs and visual
 wdfs
 
 ## Screenshot 
-Dashboard Preview (https://github.com/kalashjain03/HR-Analytics-Dashboard/blob/main/HR%20Analytis%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
